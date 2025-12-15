@@ -1,0 +1,23 @@
+# Model files
+*.safetensors
+*.bin
+*.pt
+*.h5
+model/
+models/
+hatebert best/
+best_hate_speech_model/
+results/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# VS Code
+.vscode/
